@@ -1,6 +1,6 @@
 cask "healthbar" do
-  version "0.3.3"
-  sha256 "f487e3b192a5a1f69d27b61a3baff4a7b99326e70ef55a58fd87eb41dd946134"
+  version "0.3.4"
+  sha256 "351479831d5aee31a0bc6bb059e538a116749cbafd6c08d41cd4209c0b049647"
 
   url "https://github.com/vladforfutdinov/health-bar/releases/download/v#{version}/HealthBar.dmg"
   name "HealthBar"
